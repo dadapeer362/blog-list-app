@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+.li-container {
+  list-style: none;
+}
+
+.title-date-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.title {
+  color: #000000;
+  font-family: 'Roboto';
+}
+
+.published-date {
+  color: grey;
+  font-family: 'roboto';
+}
+
+.description {
+  color: grey;
+  font-family: 'roboto';
+}
